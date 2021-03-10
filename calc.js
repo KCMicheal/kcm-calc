@@ -81,12 +81,12 @@ window.onload = function() {
                         }
                     }
                     break;
-                // Beside of that, just displaying the key value to the calculation
-                // This is used for number
+                
                 default:
                     detail.innerHTML += keyValue;
                     break;
             }
         }
     }
+    alert("Hi i loaded successfully!");
 }
