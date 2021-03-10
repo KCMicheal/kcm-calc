@@ -88,5 +88,4 @@ window.onload = function() {
             }
         }
     }
-    alert("Hi i loaded successfully!");
 }
